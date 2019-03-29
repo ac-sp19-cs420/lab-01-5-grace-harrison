@@ -22,6 +22,17 @@
 //   LinkListNode *head;
 //}LinkedList;
 //
+//
+
+
+
+// a test
+
+
+
+
+
+
 ////insert
 //LinkListNode * insert(struct LinkedList list,int data, int key){
 //    if(list.head->data=NULL){
