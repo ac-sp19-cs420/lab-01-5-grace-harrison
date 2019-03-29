@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D66806C224E70D200DA2415 /* SortedLinkList.c in Sources */ = {isa = PBXBuildFile; fileRef = 9D66806B224E70D200DA2415 /* SortedLinkList.c */; };
 		9DAD5B672230E9F9007E30D2 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 9DAD5B662230E9F9007E30D2 /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9D66806A224E70D200DA2415 /* SortedLinkList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SortedLinkList.h; sourceTree = "<group>"; };
+		9D66806B224E70D200DA2415 /* SortedLinkList.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = SortedLinkList.c; sourceTree = "<group>"; };
 		9DAD5B632230E9F9007E30D2 /* lab-1.5-gharrison15 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "lab-1.5-gharrison15"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DAD5B662230E9F9007E30D2 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				9DAD5B662230E9F9007E30D2 /* main.c */,
+				9D66806A224E70D200DA2415 /* SortedLinkList.h */,
+				9D66806B224E70D200DA2415 /* SortedLinkList.c */,
 			);
 			path = "lab-1.5-gharrison15";
 			sourceTree = "<group>";
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D66806C224E70D200DA2415 /* SortedLinkList.c in Sources */,
 				9DAD5B672230E9F9007E30D2 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
